@@ -1,0 +1,9 @@
+body {
+    background-color: #FAF0F0;
+}
+
+.content {
+    min-width: 888px;
+    max-width: 90%;
+    margin: 0 auto;
+}
